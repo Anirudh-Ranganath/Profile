@@ -1,0 +1,114 @@
+body{
+  margin:0;
+  text-align: center;
+}
+h1{
+  font-size: 3.75rem;
+  margin-top: 20px auto 0 auto;
+  color:#66BFBF;
+}
+
+h2{
+  font-size: 2.5rem;
+  color:#66BFBF;
+  font-weight : normal;
+}
+
+p{
+  padding:10px;
+  font-size: 20px;
+}
+
+h3{
+  color:#11999E;
+}
+.skill-row{
+  width:50%;
+  margin: 100px auto 150px auto;
+  text-align: left;
+  line-height: 2;
+}
+.top-container{
+  background-color: #e8f9e9;
+  position: relative;
+  padding-top:250px;
+}
+
+.middle-container{
+  padding: 50px;
+}
+
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 50px 0 40px 0;
+}
+.copyright{
+  color:#EAF6F6;
+  font-size: 0.80rem;
+}
+.pro{
+  text-decoration: underline;
+}
+
+.top-cloud{
+  position:absolute;
+  top:150px;
+  right:450px;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 450px;
+  bottom:300px;
+}
+.Data-Science{
+  width:25%;
+  float:right;
+  margin-left:30px;
+}
+.code{
+  width:25%;
+  float: left;
+  margin-right: 30px;
+}
+a{
+  color:#11999E;
+  margin: 100px 20px 100px 20px;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+a:hover{
+  color:white;
+}
+.line{
+  border:none;
+  border-top-style: dotted;
+  color: grey;
+  border-width: 5px;
+  width:5%;
+  margin: 5% auto 5% auto;
+}
+.contact-me{
+  padding:50px;
+}
+.btn {
+	box-shadow: 0px 0px 8px 0px #f0f7fa;
+	background:linear-gradient(to bottom, #66BFBF 10%, #66BFBF 100%);
+	background-color:#66BFBF;
+	border-radius:10px;
+	border:1px solid #057fd0;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:20px;
+	font-weight:bold;
+	padding:15px 27px;
+	text-decoration:none;
+	text-shadow:-1px 3px 50px #5b6178;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #2b94ba 5%, #33bdef 100%);
+	background-color:#2b94ba;
+}
